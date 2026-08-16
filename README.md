@@ -1,4 +1,3 @@
-![logo](https://github.com/Jayveer-Singh0017/Jayveer-Singh/blob/main/JAYVEER%20SINGH.png)
 <h1 align="center">Hi 👋, I'm Jayveer Singh</h1>
 <h3 align="center">A passionate Java developer from India</h3>
 
